@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/massa/static/css/main.a3244f85.css",
+    "main.css": "/massa/static/css/main.0e6d655e.css",
     "main.js": "/massa/static/js/main.633df026.js",
     "static/js/787.30e56eee.chunk.js": "/massa/static/js/787.30e56eee.chunk.js",
     "index.html": "/massa/index.html",
-    "main.a3244f85.css.map": "/massa/static/css/main.a3244f85.css.map",
+    "main.0e6d655e.css.map": "/massa/static/css/main.0e6d655e.css.map",
     "main.633df026.js.map": "/massa/static/js/main.633df026.js.map",
     "787.30e56eee.chunk.js.map": "/massa/static/js/787.30e56eee.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3244f85.css",
+    "static/css/main.0e6d655e.css",
     "static/js/main.633df026.js"
   ]
 }
